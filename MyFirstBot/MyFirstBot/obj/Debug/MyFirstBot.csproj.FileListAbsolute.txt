@@ -1,0 +1,39 @@
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Bot Application1.dll.config
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Bot Application1.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Bot Application1.pdb
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Autofac.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Chronic.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Newtonsoft.Json.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\System.Net.Http.Formatting.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\System.Web.Http.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\System.Web.Http.WebHost.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Autofac.xml
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\Newtonsoft.Json.xml
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\System.Net.Http.Formatting.xml
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\System.Web.Http.xml
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\System.Web.Http.WebHost.xml
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\obj\Debug\MyFirstBot.csprojResolveAssemblyReference.cache
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\obj\Debug\Bot Application1.dll
+C:\Users\sujithkumar.pallapat\Documents\Coder.SujithKumar.in\MyFirstBot\MyFirstBot\MyFirstBot\obj\Debug\Bot Application1.pdb
