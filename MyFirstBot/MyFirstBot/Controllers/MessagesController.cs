@@ -17,21 +17,25 @@ namespace MyFirstBot
         /// POST: api/Messages
         /// Receive a message from a user and reply to it
         /// </summary>
-        public async Task<HttpResponseMessage> Post([FromBody]Activity activity)
+        public async Task<HttpResponseMessage> Post([FromBody]Activity incomingMessage)
         {
-            if (activity.Type == ActivityTypes.Message)
+            if (incomingMessage.Type == ActivityTypes.Message)
             {
-                ConnectorClient connector = new ConnectorClient(new Uri(activity.ServiceUrl));
+                ConnectorClient connector = new ConnectorClient(new Uri(incomingMessage.ServiceUrl));
+                
                 // calculate something for us to return
-                int length = (activity.Text ?? string.Empty).Length;
-
+                int length = (incomingMessage.Text ?? string.Empty).Length;
+             
                 // return our reply to the user
-                Activity reply = activity.CreateReply($"You sent {activity.Text} which was {length} characters");
+                Activity reply = incomingMessage.CreateReply($"You sent {incomingMessage.Text} which was {length} characters");
+                
                 await connector.Conversations.ReplyToActivityAsync(reply);
+                await connector.Conversations.ReplyToActivityAsync(incomingMessage.CreateReply("Previous message length : " ));
+                await connector.Conversations.ReplyToActivityAsync(incomingMessage.CreateReply("This Bot is crazy"));
             }
             else
             {
-                HandleSystemMessage(activity);
+                HandleSystemMessage(incomingMessage);
             }
             var response = Request.CreateResponse(HttpStatusCode.OK);
             return response;
