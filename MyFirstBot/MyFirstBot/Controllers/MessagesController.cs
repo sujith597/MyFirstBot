@@ -25,7 +25,7 @@ namespace MyFirstBot
                 
                 // calculate something for us to return
                 int length = (incomingMessage.Text ?? string.Empty).Length;
-             
+               
                 // return our reply to the user
                 Activity reply = incomingMessage.CreateReply($"You sent {incomingMessage.Text} which was {length} characters");
                 
